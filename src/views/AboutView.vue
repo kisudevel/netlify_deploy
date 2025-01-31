@@ -15,7 +15,7 @@ onBeforeMount(() => {
 });
 </script>
 <template>
-  <h1>About</h1>
+  <h1>About / auto</h1>
   <pre>{{ posts }}</pre>
 </template>
 <style scoped></style>
